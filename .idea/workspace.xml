@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="094f63a3-0f34-46b6-ae41-8d4181d86c99" name="Default Changelist" comment="commit conditional">
-      <change afterPath="$PROJECT_DIR$/.idea/conditional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputnotes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/README-Deprecated.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/encrypt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/read.cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/read.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/read.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/readline-sync.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="094f63a3-0f34-46b6-ae41-8d4181d86c99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputnotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/inputnotes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/input2.js" beforeDir="false" afterPath="$PROJECT_DIR$/input2.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/condition.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
+            <state relative-caret-position="205">
               <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="21" />
             </state>
           </provider>
@@ -47,17 +29,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputnotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="545">
+              <caret line="78" column="128" selection-start-line="78" selection-start-column="128" selection-end-line="78" selection-end-column="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inputs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" lean-forward="true" selection-start-line="36" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/inputs.js">
+        <entry file="file://$PROJECT_DIR$/input2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -79,8 +70,10 @@
       <list>
         <option value="$PROJECT_DIR$/condition.js" />
         <option value="$PROJECT_DIR$/mork.js" />
-        <option value="$PROJECT_DIR$/inputnotes.js" />
         <option value="$PROJECT_DIR$/inputs.js" />
+        <option value="$PROJECT_DIR$/node_modules/input2.js" />
+        <option value="$PROJECT_DIR$/inputnotes.js" />
+        <option value="$PROJECT_DIR$/input2.js" />
       </list>
     </option>
   </component>
@@ -104,6 +97,11 @@
               <item name="conditional" type="b2602c69:ProjectViewProjectNode" />
               <item name="conditional" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="conditional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conditional" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,6 +114,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kiwa\WebstormProjects\conditional" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,16 +147,31 @@
       <workItem from="1675965056691" duration="2350000" />
       <workItem from="1676051087068" duration="1891000" />
       <workItem from="1676396697088" duration="2601000" />
-      <workItem from="1676482547605" duration="320000" />
+      <workItem from="1676482547605" duration="3294000" />
+      <workItem from="1676569061448" duration="3014000" />
     </task>
+    <task id="LOCAL-00001" summary="commit conditional">
+      <created>1676482922734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676482922734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit conditional">
+      <created>1676485844794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676485844794</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11658000" />
+    <option name="totallyTimeSpent" value="17646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,28 +195,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit conditional" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit conditional" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mork.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/inputs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="36" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/condition.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
+        <state relative-caret-position="205">
           <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inputnotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="545">
+          <caret line="78" column="128" selection-start-line="78" selection-start-column="128" selection-end-line="78" selection-end-column="128" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inputs.js">
+    <entry file="file://$PROJECT_DIR$/input2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>

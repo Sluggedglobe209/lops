@@ -50,3 +50,30 @@ if (answer % 2 == 0){
 else {
     console.log("not divisible by 2")
 }
+//Other Rounding Methods
+console.log(Math.floor(3.5)); //floor always rounds down
+console.log(Math.ceil(3.5)); //ceil(ing) always rounds up
+
+const readLine = require(`readline-sync`);
+
+//1
+let first = Number(readLine.question("Enter the first: "));
+let second = Number(readLine.question("Enter the second: "));
+let answer2 = first + second;
+console.log
+let first = Number(readLine.question("Enter the first: "));
+let second = Number(readLine.question("Enter the second: "));
+let answer2 = first + second;
+console.log                                                                               (`${first} + ${second} = ${answer2}`);
+let first = Number(readLine.question("Enter the first: "));
+let second = Number(readLine.question("Enter the second: "));
+let answer2 = first + second;
+console.log                                                                               (`${first} x ${second} = ${answer2}`);
+let first = Number(readLine.question("Enter the first: "));
+let second = Number(readLine.question("Enter the second: "));
+let answer2 = first / second;
+console.log                                                                               (`${first} / ${second} = ${answer2}`);
+let first = Number(readLine.question("Enter the first: "));
+let second = Number(readLine.question("Enter the second: "));
+let answer2 = first % second;
+console.log                                                                               (`${first} % ${second} = ${answer2}`);
