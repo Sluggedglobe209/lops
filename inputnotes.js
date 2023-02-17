@@ -76,4 +76,69 @@ console.log                                                                     
 let first = Number(readLine.question("Enter the first: "));
 let second = Number(readLine.question("Enter the second: "));
 let answer2 = first % second;
+
+
+
+
 console.log                                                                               (`${first} % ${second} = ${answer2}`);
+
+
+
+let z = 25;
+
+while (z > 0){
+
+    console.log(z);
+
+    z--;
+
+}
+
+
+
+let z = 50;
+
+while (z > 0){
+
+    console.log(z);
+
+    z--;
+
+}
+
+let z = 10;
+
+while (z > -10){
+
+    console.log(z);
+
+    z--;
+
+}
+let z = 0;
+
+while (z > -51){
+
+    console.log(z);
+
+    z--;
+
+}
+let z = 100;
+
+while (z > 0){
+
+    console.log(z);
+
+    z--;
+
+}
+let z = 0;
+
+while (z < 100){
+
+    console.log(z);
+
+    z++;
+
+}
