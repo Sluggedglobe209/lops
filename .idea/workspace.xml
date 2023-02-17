@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="094f63a3-0f34-46b6-ae41-8d4181d86c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/whileloops.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputnotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/inputnotes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loopwork.js" beforeDir="false" afterPath="$PROJECT_DIR$/loopwork.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/whileloops.js" beforeDir="false" />
-    </list>
+    <list default="true" id="094f63a3-0f34-46b6-ae41-8d4181d86c99" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -169,7 +163,7 @@
       <workItem from="1676396697088" duration="2601000" />
       <workItem from="1676482547605" duration="3294000" />
       <workItem from="1676569061448" duration="3206000" />
-      <workItem from="1676655558282" duration="2909000" />
+      <workItem from="1676655558282" duration="2952000" />
     </task>
     <task id="LOCAL-00001" summary="commit conditional">
       <created>1676482922734</created>
@@ -206,15 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676656995111</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1676658499962</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676658499962</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20747000" />
+    <option name="totallyTimeSpent" value="20790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
