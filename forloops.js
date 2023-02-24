@@ -24,8 +24,38 @@
 
 //2
 
-  for (let i =0; i<= 40; i++){
-       if (i % 2 ==0) {
-          console.log(i);
-       }
-  }
+ // for (let i =0; i<= 40; i++){
+//  //      if (i % 1 == 0) {
+//  //         console.log(i **2);
+//  //      }
+//  // }
+
+
+//3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //10
+//
+//  for(let i = 0; i<=1000; i++){
+//
+//  console.log(HAPPY HOLODSAYS);
+//
+//  }
